@@ -1,6 +1,6 @@
 **Traffic Sign Classifier Design & Experimentation**  
 **Overview**  
-I wrote a Convolutional Neural Network using Tensorflow and OpenCV to classify road signs using the German Sign Traffic Recognition Benchmark (GSTRB) dataset. This dataset contains 43 different categories of road signs.
+I wrote a Convolutional Neural Network using Tensorflow and OpenCV to classify road signs using the German Sign Traffic Recognition Benchmark (GSTRB) dataset. This dataset contains 43 different categories of road signs. (Download the dataset here: https://cdn.cs50.net/ai/2023/x/projects/5/traffic.zip).
 
 **Experimentation Process & Observation**  
 I tested the model in 4 phases, tweaking different layers and parameters to see how they affected training accuracy, testing accuracy, and computation speed.
